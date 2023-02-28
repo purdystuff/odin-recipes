@@ -1,5 +1,4 @@
 # odin-recipes
-Review of basics (html, git + cli) 
 
 Review of basics (html, git + cli)
 
